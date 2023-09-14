@@ -1,8 +1,3 @@
-/*
-A simple rectangle class with width and height
-if width and height are negative of not not integers
-an empty obect is returned
-*/
 
 class Rectangle {
     constructor(width, height) {
